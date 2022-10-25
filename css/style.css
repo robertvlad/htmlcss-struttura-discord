@@ -169,7 +169,11 @@ hr{
     height: 60px;
     display: flex;
     align-items: center;
-    justify-content: space-between;
+}
+
+.col-100 .row{
+    display: flex;
+    justify-content: space-between;    
 }
 
 .btn{
